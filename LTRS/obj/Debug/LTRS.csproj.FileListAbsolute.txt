@@ -1,0 +1,39 @@
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\bin\LTRS.dll
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\bin\LTRS.pdb
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\obj\Debug\LTRS.csprojResolveAssemblyReference.cache
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\obj\Debug\LTRS.dll
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\obj\Debug\LTRS.pdb
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\bin\Microsoft.Practices.ObjectBuilder.dll
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\obj\Debug\RdlCompile.cache
+G:\SHU Study\LTRS PROJECT\LTRS\LTRS\obj\Debug\RdlCompile.compiled
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\bin\LTRS.dll
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\bin\LTRS.pdb
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\obj\Debug\LTRS.csprojResolveAssemblyReference.cache
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\obj\Debug\RdlCompile.cache
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\obj\Debug\RdlCompile.compiled
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\obj\Debug\LTRS.dll
+C:\Users\prek_\Downloads\LTRS (1)-20170302T222014Z-001\LTRS (1)\LTRS\obj\Debug\LTRS.pdb
+C:\Users\prek_\Desktop\LTRS\LTRS\bin\LTRS.dll
+C:\Users\prek_\Desktop\LTRS\LTRS\bin\LTRS.pdb
+C:\Users\prek_\Desktop\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\prek_\Desktop\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\prek_\Desktop\LTRS\LTRS\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\prek_\Desktop\LTRS\LTRS\obj\Debug\RdlCompile.cache
+C:\Users\prek_\Desktop\LTRS\LTRS\obj\Debug\RdlCompile.compiled
+C:\Users\prek_\Desktop\LTRS\LTRS\obj\Debug\LTRS.dll
+C:\Users\prek_\Desktop\LTRS\LTRS\obj\Debug\LTRS.pdb
+C:\Users\prek_\Desktop\LTRS\LTRS\obj\Debug\LTRS.csprojResolveAssemblyReference.cache
+F:\SHU Study\Research Project\LTRS\LTRS\bin\LTRS.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\LTRS.pdb
+F:\SHU Study\Research Project\LTRS\LTRS\bin\EditableDropDownList.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Debug\LTRS.csprojResolveAssemblyReference.cache
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Debug\LTRS.dll
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Debug\LTRS.pdb

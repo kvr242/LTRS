@@ -1,0 +1,9 @@
+F:\SHU Study\Research Project\LTRS\LTRS\bin\LTRS.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\LTRS.pdb
+F:\SHU Study\Research Project\LTRS\LTRS\bin\EditableDropDownList.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\SHU Study\Research Project\LTRS\LTRS\bin\Microsoft.Practices.ObjectBuilder.dll
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Release\LTRS.csprojResolveAssemblyReference.cache
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Release\LTRS.dll
+F:\SHU Study\Research Project\LTRS\LTRS\obj\Release\LTRS.pdb

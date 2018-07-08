@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LTRSConnectionString-Web.config Connection String" description="LTRSConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5016.myASP.NET;Initial Catalog=DB_A1A07A_LTRS;User Id=DB_A1A07A_LTRS_admin;Password=prek21893;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="F:\\SHU\ Study\\Research\ Project\\LTRS\\LTRS\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LTRSConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
